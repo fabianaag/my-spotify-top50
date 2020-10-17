@@ -1,3 +1,6 @@
+Atividade da Disciplina de Visualização da informação - UFCG
+Professor Nazareno Andrade
+
 # Bogota Seasons
 
 As a part of the [Visual Analytics course](http://johnguerra.co/classes/visual_analytics_fall_2017) at Universidad de los Andes,
